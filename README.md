@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Iuliia 👋
 
-<!--
-**zi2p/zi2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Description
+Welcome to my GitHub profile! I'm a developer. I studied at ITMO University in the 09.03.02 (Information Systems and Technologies) program. Here you will find information about me and my projects.
 
-Here are some ideas to get you started:
+## My projects
+### Educational projects
+- [OOP](https://github.com/zi2p/O-oop): OOP C#
+- [Computer graphics](https://github.com/zi2p/Sharposhop): teamwork on creating photoshop
+- [Web](https://github.com/zi2p/R-Web): if you believe in horoscopes.......
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Own projects
+- [Physics online](https://github.com/zi2p/publicMS): physics modeling
+- [umru](https://github.com/zi2p/UmRu): educational project
+
+## Skills
+- .Net
+- Java
+- Python
+- JavaScript
+- HTML/CSS
+- C++
+- C
+
+## Contact me
+- [Telegram](https://t.me/gedrargerym)
+- [Email](shiza2112@gmail.com)
